@@ -1,4 +1,4 @@
-# 📊 Data Analysis Dashboard: Stock & Revenue Insights
+# Data Analysis Dashboard: Stock & Revenue Insights
 This project focuses on analyzing historical stock prices and company revenue data to uncover trends, relationships, and insights.
 ## Key Features  
 
@@ -29,7 +29,6 @@ This project focuses on analyzing historical stock prices and company revenue da
 - **Data Collection:** Web Scraping, APIs  
 - **Visualization:** IBM Cognos Analytics  
 - **Environment:** Google Colab
-- 
 ---
 ## What I Learned  
 - End-to-end data analysis workflow  
